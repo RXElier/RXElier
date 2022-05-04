@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RXElier
-- 👀 I’m interested in ... programing a gaming
+- 👀 I’m interested in ... programing and gaming
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... any BotW project
-- 📫 How to reach me ... mail mhunterspr@gmail.com
+- 📫 How to reach me ... mail. mhunterspr@gmail.com
